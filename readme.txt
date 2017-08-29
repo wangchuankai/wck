@@ -1,4 +1,4 @@
-AngularJS + Bootstrap3 导航菜单
+﻿AngularJS + Bootstrap3 导航菜单
 =============================
 
 + AngularJS + Bootstrap3 导航菜单: http://blog.fens.me/bootstrap-angularjs-navbar/
@@ -23,3 +23,4 @@ anywhere
 ## License
 
 MIT
+66666666666666
