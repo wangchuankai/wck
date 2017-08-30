@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="plupload"
+  id="myeclipse.1446014985218"
+  context-root="/plupload"
+  j2ee-spec="6.0"
+  archive="plupload.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
